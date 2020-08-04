@@ -13,7 +13,7 @@
 </h1>
 
 # :computer: Indice
-- [Sobre](#bookmark-sobre) | [Tecnologias utilizadas](#rocket-tecnologias-utilizadas) | [Como utilizar](#electric_plug-como-utilizar) | [Como rodar o projeto](#file_folder-como-rodar-o-projeto-(em-execução) 
+- [Sobre](#bookmark-sobre) | [Tecnologias utilizadas](#rocket-tecnologias-utilizadas) | [Como utilizar](#electric_plug-como-utilizar) | [Como rodar o projeto](#file_folder-como-rodar-o-projeto-em-execução) 
 
 ---
 
