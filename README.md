@@ -2,6 +2,10 @@
 
 **<p align="center">Aplicação desenvolvida na semana Next Level Week#2</p>**
 
+<h1>
+  <img src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png?raw=true" alt="Imagem do next-level-week">
+</h1>
+
 # :computer: Indice
 - [Sobre](#bookmark-sobre) | [Tecnologias utilizadas](#rocket-tecnologias-utilizadas) | [Como utilizar](#electric_plug-como-utilizar) | [Como rodar o projeto](#file_folder-como-rodar-o-projeto)
 
