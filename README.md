@@ -1,11 +1,5 @@
 # :memo: Proffy-Web
 
-<h1 align="center">
-  <img src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png?raw=true" alt="imagem referente a next-level-week">
-</h1>
-
-
-
 **<p align="center">Aplicação desenvolvida na semana Next Level Week#2</p>**
   
 <h1>
@@ -54,7 +48,14 @@ $ git clone https://github.com/Arthur-Barros/Proffy-Web.git
 # Entrar no diretório
 $ cd web
 $ cd server
+$ cd mobile
 
+# Rodar a aplicação mobile é necessário executar o mobile é o server.
+$ npm start
+$ utilizamos o app expo para rodar no nosso celular.
+
+# Rodar a aplicação é necessário executar o web é o server.
+$ npm start
 
 ```
 ---
